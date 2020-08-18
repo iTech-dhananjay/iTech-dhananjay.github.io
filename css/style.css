@@ -526,6 +526,23 @@ a.top-scroll:hover {
    }
 }
 
+/* Devices under 320px (sm) */
+@media (max-width: 319.98px) {
+   .caption h1 {
+      font-size: 1.4rem;
+      letter-spacing: .1rem;
+      padding-bottom: .4rem;
+   }
+   .caption h3 {
+      font-size: 1.0rem;
+      padding-bottom: 1rem;
+   }
+   .caption .btn-lg {
+      padding: .4rem .9rem;
+      font-size: .7rem;
+   }
+}
+
 
 /*============ BOOTSTRAP BREAK POINTS:
 

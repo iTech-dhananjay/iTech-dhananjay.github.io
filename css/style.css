@@ -529,17 +529,17 @@ a.top-scroll:hover {
 /* Devices under 320px (sm) */
 @media (max-width: 319.98px) {
    .caption h1 {
-      font-size: 1.4rem;
+      font-size: 1.1rem;
       letter-spacing: .1rem;
       padding-bottom: .4rem;
    }
    .caption h3 {
-      font-size: 1.0rem;
+      font-size: .9rem;
       padding-bottom: 1rem;
    }
    .caption .btn-lg {
-      padding: .4rem .9rem;
-      font-size: .7rem;
+      padding: .3rem .6rem;
+      font-size: .6rem;
    }
 }
 
